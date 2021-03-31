@@ -7,7 +7,7 @@ The program Only For Windows 10. We made the program for 2 months and tested ove
 The program may show bugs but we are working on new fixes / updates.
 
 # 32-bit, 64-bit ?
-The program allows you to find keys for 64-bit, 32-bit, X-86 systems via WindowsFinderKeyInjector.
+The program allows you to find keys for 64-bit, 32-bit, X-86 systems via KeyFinderInjector.
 So everything is easy to use for your computer or laptop !
 
 # Older Windows
@@ -26,5 +26,6 @@ So everything is easy to use for your computer or laptop !
 | Donation | For Fix Error |
 | --- | --- |
 | Tipeeestream | https://www.tipeeestream.com/sn8ow/donation |
+| Discord | https://discord.gg/TR5XDAAef5 | (This Is Poland Server)
 | Thanks | Thank you very much for paying ! |
 
