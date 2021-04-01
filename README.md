@@ -1,6 +1,7 @@
 # WindowsLicenseKey
 New "WindowsLicenseKey" program Allows you to search for a key for unactivated Windows. 
 Our KeyFinderInjector allows you to find the key without buying it!
+It can detect the virus !!!
 
 # Windows 10
 The program Only For Windows 10. We made the program for 2 months and tested over 69 computers! 
