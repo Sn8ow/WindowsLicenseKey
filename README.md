@@ -21,7 +21,13 @@ So everything is easy to use for your computer or laptop !
 # Info
 - Creating the Windows Key Information.txt file is created on the desktop.
 - WindowsKeyInformation created file .txt on desktop !
-- A system that already has a license, the program will not work !
+
+# Errors with License Key
+If we have a problem with the key that I do not want to load we need to download the program.
+1. Turn off Defender or other AntiVirus.
+2. Download KMSAuto [Link to website](http://www.kmsauto.info/)
+3. Click "Activation" and select "Windows"
+4. Ready !
 
 # Donation
 | Donation | For Fix Error |
